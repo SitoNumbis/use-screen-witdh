@@ -1,0 +1,24 @@
+{
+  "name": "use-screen-witdh",
+  "version": "0.0.1",
+  "description": "custom hook to observe screen specific width",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SitoNumbis/use-screen-witdh.git"
+  },
+  "keywords": [
+    "hook",
+    "react",
+    "screen"
+  ],
+  "author": "Sito",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SitoNumbis/use-screen-witdh/issues"
+  },
+  "homepage": "https://github.com/SitoNumbis/use-screen-witdh#readme"
+}

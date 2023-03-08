@@ -1,6 +1,6 @@
 {
   "name": "use-screen-witdh",
-  "version": "0.0.1",
+  "version": "0.1.2",
   "description": "custom hook to observe screen specific width",
   "main": "index.js",
   "scripts": {
